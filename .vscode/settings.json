@@ -1,0 +1,4 @@
+{
+    "dotnet-test-explorer.testProjectPath": "MacStringTest/MacStringTest.csproj",
+    "dotnet-test-explorer.testArguments": "-f netcoreapp2.1"
+}

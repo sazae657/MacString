@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0</TargetFrameworks>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>sazae657</Authors>
+    <Company></Company>
+    <Description>UTF-8-MACのような文字列を生成します</Description>
+    <Copyright>(C) 2019 sazae657</Copyright>
+    <PackageLicense>https://gawanative.com/MIT.txt</PackageLicense>
+    <PackageProjectUrl>https://github.com/sazae657/macString</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/sazae657/macString</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>

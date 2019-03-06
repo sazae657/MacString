@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MacString", "MacString\MacString.csproj", "{F4047A74-B33C-4182-85C9-3BFA3D9D216C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MacStringTest", "MacStringTest\MacStringTest.csproj", "{08DE84AE-1924-4516-AB3F-8A85993B0D9D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Muast", "Muast", "{9DBFFDB0-A816-4662-BD73-17674809D2B6}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4047A74-B33C-4182-85C9-3BFA3D9D216C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4047A74-B33C-4182-85C9-3BFA3D9D216C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4047A74-B33C-4182-85C9-3BFA3D9D216C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4047A74-B33C-4182-85C9-3BFA3D9D216C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08DE84AE-1924-4516-AB3F-8A85993B0D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08DE84AE-1924-4516-AB3F-8A85993B0D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08DE84AE-1924-4516-AB3F-8A85993B0D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08DE84AE-1924-4516-AB3F-8A85993B0D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED0C8A66-23A4-48B1-91C7-AF7234915188}
+	EndGlobalSection
+EndGlobal
